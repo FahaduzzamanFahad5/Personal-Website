@@ -1,1 +1,50 @@
-
+.half-width{
+    width: 40%;
+    float: left; 
+    
+}
+#top-text{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.name{
+    color: rgb(214, 19, 110);
+    font-weight: 1000;
+    font-size: 25px;
+}
+.link-button{
+   text-decoration: none;
+   padding: 10px 20px;
+   background-color: rgb(214, 19, 110);
+   color: white;
+   border-radius: 10px; 
+}
+img{
+    margin-top: 10%;
+}
+.bio-half-width{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    
+    
+}
+#bio-text{
+    margin-top: 100px;
+    margin-left: 1%;
+    text-align: justify;
+}
+#cv-link{
+    text-decoration: none;
+    background-color: rgb(214, 19, 110);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    
+}
+body{
+    background-color: rgb(209, 194, 194);
+}
+.work{
+    text-align: center;
+}
